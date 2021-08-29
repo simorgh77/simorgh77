@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://pin.it/1clFUbM" alt="animated"  />
+  <img src="https://cdn.dribbble.com/users/1282416/screenshots/2859399/nuit2.gif" alt="animated"  />
 </p>
 
 ### Hi there i'm taha 👋
