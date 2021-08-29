@@ -9,7 +9,6 @@
 ![javascript](https://img.icons8.com/dusk/64/000000/javascript-logo.png)
 ![react](https://img.icons8.com/officel/64/000000/react.png)
 ![typescript](https://img.icons8.com/color/64/000000/typescript.png)
-![graphql](https://img.icons8.com/color/64/000000/graphql.png)
-![sass](https://img.icons8.com/color/64/000000/sass.png)
+![html](https://www.svgrepo.com/show/197982/html.svg)
 
 
