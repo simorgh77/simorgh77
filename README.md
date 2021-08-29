@@ -1,5 +1,4 @@
 ### Hi there i'm taha 👋
-i'm taha and looking for new exprience 
 <p align="center">
   <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/8930b329502133.55f6b199518e9.gif" alt="animated"  />
 </p>
