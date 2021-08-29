@@ -4,7 +4,7 @@
 
 ### Hi there i'm taha 👋
 i'm taha and looking for new exprience 
-<!--
+
 **simorgh77/simorgh77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <p> What i Know</p>
 (https://img.icons8.com/dusk/64/000000/javascript-logo.png)
