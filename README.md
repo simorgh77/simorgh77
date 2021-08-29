@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/3oKIPy2oykMIw6ystW/giphy.gif?cid=ecf05e473mtfs3w00kvhtr0zfdcdjcalrmrdyb26ymy4cqb9&rid=giphy.gif&ct=g" alt="animated" width="50%" />
+  <img src="https://pin.it/1clFUbM" alt="animated"  />
 </p>
 
 ### Hi there i'm taha 👋
