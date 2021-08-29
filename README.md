@@ -12,5 +12,13 @@
 ![html](https://img.icons8.com/color/64/000000/html-5--v1.png)
 ![css](https://img.icons8.com/color/64/000000/css3.png)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=simprgh77)](https://github.com/anuraghazra/github-readme-stats)
 
+## My Stats
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api?username=simorgh77&show_icons=true&include_all_commits=true&theme=monokai)
+![mattn's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=simorgh77&layout=compact&theme=monokai&langs_count=12) -->
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=simorgh77&show_icons=true&include_all_commits=true&theme=monokai" alt="simorgh77's GitHub stats" /><br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=simorgh77&theme=monokai"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simorgh7779&layout=compact&theme=monokai&langs_count=12"/>
+</p>
