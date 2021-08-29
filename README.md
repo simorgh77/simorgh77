@@ -3,17 +3,12 @@
 i'm taha and looking for new exprience 
 <!--
 **simorgh77/simorgh77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What i Know
+![javascript](https://img.icons8.com/dusk/64/000000/javascript-logo.png)
+![react](https://img.icons8.com/officel/64/000000/react.png)
+![typescript](https://img.icons8.com/color/64/000000/typescript.png)
+![graphql](https://img.icons8.com/color/64/000000/graphql.png)
+![sass](https://img.icons8.com/color/64/000000/sass.png)
 
-## What I Know
 
-<p>
-<img src="./images/html5-2.svg" width="40"/>
-<img src="./images/css-124-624920.png" width="55"/>
-<img src="./images/bootstrap-4.svg" width="50"/>
-<img src="./images/sass-1.svg" width="70"/>
-<img src="./images/jquery-2.svg" width="80"/>
-<img src="./images/logo-javascript.svg" width="50"/>
-<img src="./images/typescript.svg" width="50"/>
-<img src="./images/react-2.svg" width="50"/>
-<img src="./images/redux-seeklogo.com.svg" width="50"/>
-</p>
+
