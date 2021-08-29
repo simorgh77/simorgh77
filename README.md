@@ -12,4 +12,5 @@
 ![html](https://img.icons8.com/color/64/000000/html-5--v1.png)
 ![css](https://img.icons8.com/color/64/000000/css3.png)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=simprgh77)](https://github.com/anuraghazra/github-readme-stats)
 
