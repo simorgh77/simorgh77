@@ -20,5 +20,5 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=simorgh77&show_icons=true&include_all_commits=true&theme=monokai" alt="simorgh77's GitHub stats" /><br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=simorgh77&theme=monokai"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simorgh7779&layout=compact&theme=monokai&langs_count=12"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simorgh77&layout=compact&theme=monokai&langs_count=12"/>
 </p>
