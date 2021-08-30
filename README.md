@@ -24,9 +24,4 @@
 </p>
 
 
-<p style="font-size:5rem"> پروژه های من </p>
-E-commerce with reace+typescript+redux+persist+axios  <a href="https://e-commerce-khaki.vercel.app/">Visit </a>
-
-
-https://to-do-advance-ex1ptowul-tahakhorasani.vercel.app/
 
