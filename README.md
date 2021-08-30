@@ -25,7 +25,6 @@
 
 
 ## My resume
-[Taha Korasani _resumne.pdf](https://github.com/simorgh77/simorgh77/files/7075937/Taha.Korasani._resumne.pdf)
-
+[Taha Khorasani resume.pdf](https://github.com/simorgh77/simorgh77/files/7076815/Taha.Khorasani.resume.pdf)
 
 
