@@ -24,4 +24,8 @@
 </p>
 
 
+## My resume
+[Taha Korasani _resumne.pdf](https://github.com/simorgh77/simorgh77/files/7075937/Taha.Korasani._resumne.pdf)
+
+
 
