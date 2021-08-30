@@ -26,4 +26,4 @@
 
 <p> پروژه های من </p>
 
-E-commerce with reace+typescript+redux+persist+axios  <a to=' https://to-do-advance-ex1ptowul-tahakhorasani.vercel.app/'>نمایش </a>
+E-commerce with reace+typescript+redux+persist+axios  <a href=' https://to-do-advance-ex1ptowul-tahakhorasani.vercel.app/'>نمایش </a>
