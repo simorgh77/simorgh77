@@ -1,6 +1,7 @@
 ### Hi there i'm taha 👋
 <p align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/8930b329502133.55f6b199518e9.gif" alt="animated"  />
+![hadder](https://user-images.githubusercontent.com/80149895/131662390-891b33f6-4a6f-4d22-afdc-22af0899e7c7.gif)
+
 </p>
 
 
