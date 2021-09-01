@@ -1,6 +1,6 @@
 ### Hi there i'm taha 👋
 <p align="center">
-<img src="(https://user-images.githubusercontent.com/80149895/131662390-891b33f6-4a6f-4d22-afdc-22af0899e7c7.gif)">
+<img src="https://user-images.githubusercontent.com/80149895/131662390-891b33f6-4a6f-4d22-afdc-22af0899e7c7.gif">
 </img>
 </p>
 
